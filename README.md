@@ -17,5 +17,3 @@
 </div>
 
   - recreational programmer
-  - web3 engineer
-  - dev @ decentra
